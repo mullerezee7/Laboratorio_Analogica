@@ -1,0 +1,54 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Acer ASPIRE\OneDrive\Desktop\Laboratorio de Elec. Analogica\TP1\TP1 LTSPICE\Draft1.asc
+Start Time: Thu Sep  4 21:39:48 2025
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+r5: both pins shorted together -- ignoring.
+solver = Normal
+Maximum thread count: 2
+
+
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 0.002
+WARNING: Less than two connections to node nc_01.  This node is used by q1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step v=0.25
+
+
+
+.step v=0.45
+
+
+
+.step v=0.65
+
+
+
+.step v=0.85
+tnom = 27
+temp = 27
+method = modified trap
+.step v=1
+Total elapsed time: 1.754 seconds.
+
