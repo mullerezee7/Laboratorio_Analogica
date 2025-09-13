@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\Acer ASPIRE\OneDrive\Documentos\AALAboratorio\Laboratorio_Analogica\TP8\idea2_tp8.asc
-Start Time: Fri Sep 12 17:10:08 2025
+Start Time: Sat Sep 13 19:50:46 2025
 solver = Normal
 Maximum thread count: 2
 tnom = 27
@@ -26,5 +26,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.938 seconds.
+Total elapsed time: 0.606 seconds.
 
