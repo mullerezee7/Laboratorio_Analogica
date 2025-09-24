@@ -2490,6 +2490,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 10.16 224.79)
+		(size 276.86 171.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a272ba7-2c74-41c5-89b5-8d09cb0848b6")
+		(property "Sheetname" "8. Laboratorio_Sensor_Solar_Orientacion"
+			(at 10.16 224.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 10.16 396.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "monitoreo_termico"
+				(path "/a0aa5472-87de-4e10-861a-104b546c9985"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
