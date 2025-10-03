@@ -1,11 +1,11 @@
-LTspice 24.0.9 for Windows
-Circuit: * C:\Users\Acer ASPIRE\OneDrive\Documentos\AALAboratorio\Laboratorio_Analogica\TP8\idea2_tp8.asc
-Start Time: Sat Sep 13 19:50:46 2025
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP8\idea2_tp8.net
+Start Time: Fri Sep 19 15:41:11 2025
 solver = Normal
-Maximum thread count: 2
+Maximum thread count: 8
 tnom = 27
 temp = 27
-method = modified trap
+method = trap
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -26,5 +26,10 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.606 seconds.
+Total elapsed time: 0.531 seconds.
+
+Files loaded:
+C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP8\idea2_tp8.net
+C:\Users\Ezequiel\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Ezequiel\AppData\Local\LTspice\lib\sub\LTC.lib
 
