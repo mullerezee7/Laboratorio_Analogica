@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
-Circuit: * C:\Users\Acer ASPIRE\OneDrive\Documentos\AALAboratorio\Laboratorio_Analogica\TP8\Draft1.asc
-Start Time: Tue Sep 23 13:41:36 2025
+Circuit: * C:\Users\Acer ASPIRE\OneDrive\Documentos\AALAboratorio\Laboratorio_Analogica\TP8\Circuito que hicimos en protoboard\Draft1.asc
+Start Time: Wed Sep 24 15:02:00 2025
 solver = Normal
 Maximum thread count: 2
 tnom = 27
@@ -26,5 +26,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.503 seconds.
+Total elapsed time: 0.472 seconds.
 
