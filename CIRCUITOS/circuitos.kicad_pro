@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "monitoreo_termico.kicad_pro",
+    "filename": "circuitos.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -416,6 +416,14 @@
     [
       "0a272ba7-2c74-41c5-89b5-8d09cb0848b6",
       "8. Laboratorio_Sensor_Solar_Orientacion"
+    ],
+    [
+      "12fee0ca-17f3-4fe1-9130-e91f8b0b7175",
+      "alimentacion"
+    ],
+    [
+      "bce74864-28b0-4450-876a-ee8229fd752e",
+      "monitoreo_termico"
     ]
   ],
   "text_variables": {}

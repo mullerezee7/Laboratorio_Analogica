@@ -3035,22 +3035,22 @@
 			(uuid "6fe765e3-f7a4-4426-861c-4d2e3eab8125")
 		)
 		(pin "8"
-			(uuid "b8515dc6-2e67-4002-8840-36e0d7c88a1d")
+			(uuid "b8515dc6-2e67-4002-8840-36e0d7c88a1e")
 		)
 		(pin "3"
 			(uuid "37c74d47-95bd-4c31-b3c1-813c9b0036e7")
 		)
 		(pin "5"
-			(uuid "263fe12e-87e2-4ba9-bf3a-7af5909505d9")
+			(uuid "263fe12e-87e2-4ba9-bf3a-7af5909505da")
 		)
 		(pin "6"
-			(uuid "d8b702bb-ff39-4827-895c-6d8e70ac4982")
+			(uuid "d8b702bb-ff39-4827-895c-6d8e70ac4983")
 		)
 		(pin "4"
-			(uuid "0bfa3551-77a3-4a91-8069-e0db5b432a67")
+			(uuid "0bfa3551-77a3-4a91-8069-e0db5b432a68")
 		)
 		(pin "7"
-			(uuid "1b0b4efc-f8aa-4f50-8787-69af4ebf9d1b")
+			(uuid "1b0b4efc-f8aa-4f50-8787-69af4ebf9d1c")
 		)
 		(instances
 			(project ""

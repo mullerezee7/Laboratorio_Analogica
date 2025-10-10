@@ -2525,9 +2525,93 @@
 			)
 		)
 		(instances
-			(project "monitoreo_termico"
+			(project "circuitos"
 				(path "/a0aa5472-87de-4e10-861a-104b546c9985"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.17 59.69)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "12fee0ca-17f3-4fe1-9130-e91f8b0b7175")
+		(property "Sheetname" "alimentacion"
+			(at 217.17 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alimentacion.kicad_sch"
+			(at 217.17 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuitos"
+				(path "/a0aa5472-87de-4e10-861a-104b546c9985"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 196.85 92.71)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bce74864-28b0-4450-876a-ee8229fd752e")
+		(property "Sheetname" "monitoreo_termico"
+			(at 196.85 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "monitoreo_termico.kicad_sch"
+			(at 196.85 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "circuitos"
+				(path "/a0aa5472-87de-4e10-861a-104b546c9985"
+					(page "4")
 				)
 			)
 		)
