@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
-Circuit: C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP8\Draft4.net
-Start Time: Mon Nov  3 09:58:52 2025
+Circuit: C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP6\Draft2.net
+Start Time: Sun Nov 16 23:32:52 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -26,10 +26,9 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.619 seconds.
+Total elapsed time: 0.497 seconds.
 
 Files loaded:
-C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP8\Draft4.net
-C:\Users\Ezequiel\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Ezequiel\Documents\LAB\Laboratorio_Analogica\TP6\Draft2.net
 C:\Users\Ezequiel\AppData\Local\LTspice\lib\sub\LTC.lib
 
